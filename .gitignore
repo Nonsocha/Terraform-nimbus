@@ -1,0 +1,12 @@
+# Terraform downloaded providers and local data
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform plans
+*.tfplan
+
+# Crash logs
+crash.log
